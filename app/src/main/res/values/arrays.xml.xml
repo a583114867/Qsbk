@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tab_items">
+        <item>专享</item>
+        <item>视频</item>
+        <item>纯文</item>
+        <item>纯图</item>
+        <item>最新</item>
+    </string-array>
+</resources>
